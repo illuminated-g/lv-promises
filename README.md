@@ -1,2 +1,2 @@
-# lv-futures
-Extensible Futures implementation for LabVIEW
+# lv-promises
+Chainable Promises in LabVIEW
