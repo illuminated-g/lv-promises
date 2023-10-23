@@ -6,14 +6,17 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Async Start" Type="Folder">
 		<Item Name="Add 5 (Async).vi" Type="VI" URL="../Add 5 (Async).vi"/>
+		<Item Name="DBL to String (Async).vi" Type="VI" URL="../DBL to String (Async).vi"/>
 		<Item Name="Mul 12 (Async).vi" Type="VI" URL="../Mul 12 (Async).vi"/>
 	</Item>
 	<Item Name="Tasks" Type="Folder">
 		<Item Name="Add 5 Task.vi" Type="VI" URL="../Add 5 Task.vi"/>
+		<Item Name="DBL to String.vi" Type="VI" URL="../DBL to String.vi"/>
 		<Item Name="Mul 12 Task.vi" Type="VI" URL="../Mul 12 Task.vi"/>
 	</Item>
 	<Item Name="Values" Type="Folder">
 		<Item Name="DoubleValue.lvclass" Type="LVClass" URL="../DoubleValue/DoubleValue.lvclass"/>
+		<Item Name="StringValue.lvclass" Type="LVClass" URL="../StringValue/StringValue.lvclass"/>
 	</Item>
 	<Item Name="Async Math Example.vi" Type="VI" URL="../Async Math Example.vi"/>
 </Library>
