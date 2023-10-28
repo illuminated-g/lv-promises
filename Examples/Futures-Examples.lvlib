@@ -16,7 +16,12 @@
 	</Item>
 	<Item Name="Values" Type="Folder">
 		<Item Name="DoubleValue.lvclass" Type="LVClass" URL="../DoubleValue/DoubleValue.lvclass"/>
+		<Item Name="ElementsValue.lvclass" Type="LVClass" URL="../ElementsValue/ElementsValue.lvclass"/>
 		<Item Name="StringValue.lvclass" Type="LVClass" URL="../StringValue/StringValue.lvclass"/>
 	</Item>
 	<Item Name="Async Math Example.vi" Type="VI" URL="../Async Math Example.vi"/>
+	<Item Name="Event Response Example.vi" Type="VI" URL="../Event Response Example.vi"/>
+	<Item Name="Event Response Handler.lvclass" Type="LVClass" URL="../Event Response Handler/Event Response Handler.lvclass"/>
+	<Item Name="Promise Chain Polling Example.vi" Type="VI" URL="../Promise Chain Polling Example.vi"/>
+	<Item Name="Wait Any Example.vi" Type="VI" URL="../Wait Any Example.vi"/>
 </Library>
