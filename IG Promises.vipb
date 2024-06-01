@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2023-10-26 17:09:37" Modified_Date="2023-10-26 18:59:06" Creator="Unlikely Nomad" Comments="" ID="d6ad7a81f0a06010dd27077a51101d02">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2023-10-26 17:09:37" Modified_Date="2024-06-01 08:25:38" Creator="Unlikely Nomad" Comments="" ID="f616a025e1296b933a9e28278fc337b9">
   <Library_General_Settings>
     <Package_File_Name>IlluminatedG_lib_IG_Promises</Package_File_Name>
-    <Library_Version>0.9.0.6</Library_Version>
+    <Library_Version>0.9.2.8</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\vip</Library_Output_Folder>
@@ -34,7 +34,11 @@ This library also encapsulates error propagation and handling. With response not
       <Copyright/>
       <Packager>Derrick Bommarito</Packager>
       <URL>https://github.com/illuminated-g/lv-promises</URL>
-      <Release_Notes/>
+      <Release_Notes>0.9.2.7
+- More robust cleanup of internals to try and eliminate ref leaks
+
+0.9.1.6
+- Fixed reentrancy for VIs that can wait</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -119,9 +123,6 @@ This library also encapsulates error propagation and handling. With response not
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
-      <Compile_Exclusions>
-        <Path/>
-      </Compile_Exclusions>
       <Place_Folder_Contents>
         <Path/>
       </Place_Folder_Contents>
@@ -393,7 +394,7 @@ This library also encapsulates error propagation and handling. With response not
         <Path>Promises\Promise\Mark Read Only.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FB6ACEA18CEDA917ACC09B87011D0147</GUID>
+      <GUID>BC52D1D03178CCD0C620FE1F9536844B</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
