@@ -2,9 +2,10 @@
   "Info":{
     "Name":"git:lv-promises",
     "Type":"git",
-    "Source":"git@github.com:illuminated-g/lv-promises.git",
+    "Host":"git@github.com:illuminated-g/lv-promises.git",
+    "Path":"",
     "Branch":"main",
-    "Version":"7dd9f558845c6e71839e52e0897cf9ca82deac5f"
+    "Version":"f5674f00e19e3c996f5270370af21529a67b2054"
   },
   "Dependencies":[]
 }
