@@ -19,7 +19,6 @@
 	<Item Name="Error Result.lvclass" Type="LVClass" URL="../Error Result/Error Result.lvclass"/>
 	<Item Name="Future.lvclass" Type="LVClass" URL="../Future/Future.lvclass"/>
 	<Item Name="Is Type.vi" Type="VI" URL="../Is Type.vi"/>
-	<Item Name="No Parameter.lvclass" Type="LVClass" URL="../No Parameter/No Parameter.lvclass"/>
 	<Item Name="Promise.lvclass" Type="LVClass" URL="../Promise/Promise.lvclass"/>
 	<Item Name="Value.lvclass" Type="LVClass" URL="../Value/Value.lvclass"/>
 </Library>
