@@ -67,15 +67,6 @@
 				<Property Name="NI.ClassItem.State" Type="Int">1074541056</Property>
 			</Item>
 		</Item>
-		<Item Name="Object or Variant Wrapper.vi" Type="VI" URL="../Object or Variant Wrapper.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#C!!!!"!!%!!!!+%"Q!"Y!!!Z-97*73568)%^C;G6D&gt;!!/4'&amp;C6EF&amp;6S"09GJF9X1!!$*!=!!?!!!/4'&amp;C6EF&amp;6S"09GJF9X1!'5^C;G6D&gt;#"P=C"798*J97ZU)&amp;&gt;S98"Q:8)!0!$Q!!A!!!!!!!!!!!!"!!!!!!!#"!!!91!!!!!!!!!!!!!!!!!!!!!!!")!!!!!!!!!!!!!!!U%!!!!!1!$!!!!!!</Property>
-			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">16908288</Property>
-			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
-			<Property Name="NI.ClassItem.Priority" Type="Int">5</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1115684864</Property>
-		</Item>
 		<Item Name="Wait Event.vi" Type="VI" URL="../Wait Event.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;J!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"Z!=!!?!!!/4'&amp;C6EF&amp;6S"09GJF9X1!"6:B&lt;(6F!$:!=!!?!!!A$F"S&lt;WVJ=W6T,GRW&lt;'FC$V"S&lt;WVJ=W5O&lt;(:D&lt;'&amp;T=Q!!#V"S&lt;WVJ=W5A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!&amp;5!$!!^5;7VF&lt;X6U)'V4)#AN-3E!.E"Q!"Y!!#!/5(*P&lt;7FT:8-O&lt;(:M;7)05(*P&lt;7FT:3ZM&gt;G.M98.T!!!+5(*P&lt;7FT:3"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!#!!%!!E$!!"Y!!!.#!!!!!!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!3!!!!!!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -107,7 +98,16 @@
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">269230096</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">276832272</Property>
+			</Item>
+			<Item Name="Object or Variant Wrapper.vi" Type="VI" URL="../Object or Variant Wrapper.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#C!!!!"!!%!!!!+%"Q!"Y!!!Z-97*73568)%^C;G6D&gt;!!/4'&amp;C6EF&amp;6S"09GJF9X1!!$*!=!!?!!!/4'&amp;C6EF&amp;6S"09GJF9X1!'5^C;G6D&gt;#"P=C"798*J97ZU)&amp;&gt;S98"Q:8)!0!$Q!!A!!!!!!!!!!!!"!!!!!!!#"!!!91!!!!!!!!!!!!!!!!!!!!!!!")!!!!!!!!!!!!!!!U%!!!!!1!$!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16908288</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">5</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">8400896</Property>
 			</Item>
 		</Item>
 		<Item Name="Create.vi" Type="VI" URL="../Create.vi">
