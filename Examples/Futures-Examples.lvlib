@@ -14,6 +14,7 @@
 		<Item Name="Add 5 Task.vi" Type="VI" URL="../Add 5 Task.vi"/>
 		<Item Name="DBL to String.vi" Type="VI" URL="../DBL to String.vi"/>
 		<Item Name="Mul 12 Task.vi" Type="VI" URL="../Mul 12 Task.vi"/>
+		<Item Name="Resolve Variant Task.vi" Type="VI" URL="../Resolve Variant Task.vi"/>
 		<Item Name="Simple Single Task.vi" Type="VI" URL="../Simple Single Task.vi"/>
 	</Item>
 	<Item Name="Values" Type="Folder">
@@ -23,6 +24,7 @@
 	</Item>
 	<Item Name="Async Math Example.vi" Type="VI" URL="../Async Math Example.vi"/>
 	<Item Name="Promise Chain Polling Example.vi" Type="VI" URL="../Promise Chain Polling Example.vi"/>
+	<Item Name="Resolve Variant Example.vi" Type="VI" URL="../Resolve Variant Example.vi"/>
 	<Item Name="Simple Resolve Example.vi" Type="VI" URL="../Simple Resolve Example.vi"/>
 	<Item Name="Wait Any Example.vi" Type="VI" URL="../Wait Any Example.vi"/>
 </Library>
