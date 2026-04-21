@@ -21,4 +21,5 @@
 	<Item Name="Is Type.vi" Type="VI" URL="../Is Type.vi"/>
 	<Item Name="Promise.lvclass" Type="LVClass" URL="../Promise/Promise.lvclass"/>
 	<Item Name="Value.lvclass" Type="LVClass" URL="../Value/Value.lvclass"/>
+	<Item Name="Variant.lvclass" Type="LVClass" URL="../Variant/Variant.lvclass"/>
 </Library>

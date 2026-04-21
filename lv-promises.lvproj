@@ -11,6 +11,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Malleable" Type="Folder">
+			<Item Name="Wait Variant.vim" Type="VI" URL="../Promises/Promise/Wait Variant.vim"/>
+		</Item>
 		<Item Name="Futures-Examples.lvlib" Type="Library" URL="../Examples/Futures-Examples.lvlib"/>
 		<Item Name="Promises.lvlib" Type="Library" URL="../Promises/Promises.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
